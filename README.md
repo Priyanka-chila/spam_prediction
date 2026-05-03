@@ -1,2 +1,2 @@
 # spam_prediction
-Spam pridiction
+Spam prediction
